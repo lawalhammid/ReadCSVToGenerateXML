@@ -1,6 +1,8 @@
 # ReadCSVToGenerateXML
 
 PROJECT REQUIREMENT BELOW
+
+
 Cloud Commerce Group C# Developer Technical Test
 Create a C# console application that can be given a CSV file and convert it to XML or JSON. The idea is to show off your knowledge of C# and OOP principles, rather than to do it as quickly as possible. Feel free to use a library or framework, e.g. to help handle the interaction with the command line.
 
