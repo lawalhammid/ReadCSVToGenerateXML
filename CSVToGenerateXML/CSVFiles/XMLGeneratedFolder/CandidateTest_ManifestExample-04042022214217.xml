@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Item-Details>
+    <OrderNo>ORD001</OrderNo>
+    <ConsignmentNo>CON001</ConsignmentNo>
+    <ParcelCode>PARC001</ParcelCode>
+    <ConsigneeName>Bob Berg</ConsigneeName>
+    <Address1>10 Baker Street</Address1>
+    <Address2>Peckham</Address2>
+    <City>London</City>
+    <State></State>
+    <CountryCode>GB</CountryCode>
+    <ItemQuantity>1</ItemQuantity>
+    <ItemValue>1.1</ItemValue>
+    <ItemWeight>0.004</ItemWeight>
+    <ItemDescription>Pen</ItemDescription>
+    <ItemCurrency></ItemCurrency>
+  </Item-Details>
+  <Item-Details>
+    <OrderNo>ORD001</OrderNo>
+    <ConsignmentNo>CON001</ConsignmentNo>
+    <ParcelCode>PARC002</ParcelCode>
+    <ConsigneeName>Bob Berg</ConsigneeName>
+    <Address1>10 Baker Street</Address1>
+    <Address2>Peckham</Address2>
+    <City>London</City>
+    <State></State>
+    <CountryCode>GB</CountryCode>
+    <ItemQuantity>2</ItemQuantity>
+    <ItemValue>3.4</ItemValue>
+    <ItemWeight>0.3</ItemWeight>
+    <ItemDescription>Pencil Case</ItemDescription>
+    <ItemCurrency></ItemCurrency>
+  </Item-Details>
+  <Item-Details>
+    <OrderNo>ORD002</OrderNo>
+    <ConsignmentNo>CON002</ConsignmentNo>
+    <ParcelCode>PARC003</ParcelCode>
+    <ConsigneeName>Frank Berg</ConsigneeName>
+    <Address1>10 Baker Street</Address1>
+    <Address2>Peckham</Address2>
+    <City>London</City>
+    <State></State>
+    <CountryCode>GB</CountryCode>
+    <ItemQuantity>1</ItemQuantity>
+    <ItemValue>8</ItemValue>
+    <ItemWeight>0.5</ItemWeight>
+    <ItemDescription>Socks</ItemDescription>
+    <ItemCurrency></ItemCurrency>
+  </Item-Details>
+  <Item-Details>
+    <OrderNo>ORD003</OrderNo>
+    <ConsignmentNo>CON003</ConsignmentNo>
+    <ParcelCode>PARC004</ParcelCode>
+    <ConsigneeName>D Cameron</ConsigneeName>
+    <Address1>10 Downing St</Address1>
+    <Address2>Brixton</Address2>
+    <City></City>
+    <State>London</State>
+    <CountryCode>GB</CountryCode>
+    <ItemQuantity>1</ItemQuantity>
+    <ItemValue>80</ItemValue>
+    <ItemWeight>1.9</ItemWeight>
+    <ItemDescription>Pen</ItemDescription>
+    <ItemCurrency></ItemCurrency>
+  </Item-Details>
+  <Item-Details>
+    <OrderNo>ORD004</OrderNo>
+    <ConsignmentNo>CON004</ConsignmentNo>
+    <ParcelCode>PARC005</ParcelCode>
+    <ConsigneeName>Luigi Da Vinci</ConsigneeName>
+    <Address1>Casa di Bolos</Address1>
+    <Address2>Dulce Av.</Address2>
+    <City>Milano</City>
+    <State></State>
+    <CountryCode>IT</CountryCode>
+    <ItemQuantity>1</ItemQuantity>
+    <ItemValue>80</ItemValue>
+    <ItemWeight>1.9</ItemWeight>
+    <ItemDescription>Stilos Roj�</ItemDescription>
+    <ItemCurrency>EUR</ItemCurrency>
+  </Item-Details>
+</Items>

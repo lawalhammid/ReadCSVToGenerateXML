@@ -1,0 +1,10 @@
+C:\Users\USER\Documents\LawalInterviewSchedules\Emilia\CSVToXMLJSONBusinessLogic\obj\Debug\netcoreapp3.1\CSVToXMLJSONBusinessLogic.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\LawalInterviewSchedules\Emilia\CSVToXMLJSONBusinessLogic\obj\Debug\netcoreapp3.1\CSVToXMLJSONBusinessLogic.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\LawalInterviewSchedules\Emilia\CSVToXMLJSONBusinessLogic\obj\Debug\netcoreapp3.1\CSVToXMLJSONBusinessLogic.AssemblyInfo.cs
+C:\Users\USER\Documents\LawalInterviewSchedules\Emilia\CSVToXMLJSONBusinessLogic\obj\Debug\netcoreapp3.1\CSVToXMLJSONBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\LawalInterviewSchedules\Emilia\CSVToXMLJSONBusinessLogic\bin\Debug\netcoreapp3.1\CSVToXMLJSONBusinessLogic.deps.json
+C:\Users\USER\Documents\LawalInterviewSchedules\Emilia\CSVToXMLJSONBusinessLogic\bin\Debug\netcoreapp3.1\CSVToXMLJSONBusinessLogic.dll
+C:\Users\USER\Documents\LawalInterviewSchedules\Emilia\CSVToXMLJSONBusinessLogic\bin\Debug\netcoreapp3.1\CSVToXMLJSONBusinessLogic.pdb
+C:\Users\USER\Documents\LawalInterviewSchedules\Emilia\CSVToXMLJSONBusinessLogic\obj\Debug\netcoreapp3.1\CSVToXMLJSONBusinessLogic.dll
+C:\Users\USER\Documents\LawalInterviewSchedules\Emilia\CSVToXMLJSONBusinessLogic\obj\Debug\netcoreapp3.1\CSVToXMLJSONBusinessLogic.pdb
+C:\Users\USER\Documents\LawalInterviewSchedules\Emilia\CSVToXMLJSONBusinessLogic\obj\Debug\netcoreapp3.1\CSVToXMLJSONBusinessLogic.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
