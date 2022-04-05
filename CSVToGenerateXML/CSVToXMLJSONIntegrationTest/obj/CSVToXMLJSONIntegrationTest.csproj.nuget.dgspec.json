@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\Emilia\\CSVToXMLJSONIntegrationTest\\CSVToXMLJSONIntegrationTest.csproj": {}
+    "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\CSVConvertToXML\\ReadCSVToGenerateXML\\CSVToGenerateXML\\CSVToXMLJSONIntegrationTest\\CSVToXMLJSONIntegrationTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\Emilia\\CSVToXMLJSONIntegrationTest\\CSVToXMLJSONIntegrationTest.csproj": {
+    "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\CSVConvertToXML\\ReadCSVToGenerateXML\\CSVToGenerateXML\\CSVToXMLJSONIntegrationTest\\CSVToXMLJSONIntegrationTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\Emilia\\CSVToXMLJSONIntegrationTest\\CSVToXMLJSONIntegrationTest.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\CSVConvertToXML\\ReadCSVToGenerateXML\\CSVToGenerateXML\\CSVToXMLJSONIntegrationTest\\CSVToXMLJSONIntegrationTest.csproj",
         "projectName": "CSVToXMLJSONIntegrationTest",
-        "projectPath": "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\Emilia\\CSVToXMLJSONIntegrationTest\\CSVToXMLJSONIntegrationTest.csproj",
+        "projectPath": "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\CSVConvertToXML\\ReadCSVToGenerateXML\\CSVToGenerateXML\\CSVToXMLJSONIntegrationTest\\CSVToXMLJSONIntegrationTest.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\Emilia\\CSVToXMLJSONIntegrationTest\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\CSVConvertToXML\\ReadCSVToGenerateXML\\CSVToGenerateXML\\CSVToXMLJSONIntegrationTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

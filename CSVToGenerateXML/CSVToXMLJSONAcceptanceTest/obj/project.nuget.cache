@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1qYWOFZOMJvR8XNn1lOFzARoL+3bVIl8rjmg2QFUotQc4U0Zcqpzn7oyMJrzPQ0fMCGrdxRgzgtsXQmnws1K7A==",
+  "dgSpecHash": "4rXFTTDOABNqgxVf44N3wTrmwBOQi6HW1jN/SI7nVOuYrrv/gXZrcCbn+sJkXBERISqfQLwjHkbnMMoQwyCrIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\Emilia\\CSVToXMLJSONAcceptanceTest\\CSVToXMLJSONAcceptanceTest.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\CSVConvertToXML\\ReadCSVToGenerateXML\\CSVToGenerateXML\\CSVToXMLJSONAcceptanceTest\\CSVToXMLJSONAcceptanceTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\choetl\\1.2.1.44\\choetl.1.2.1.44.nupkg.sha512",

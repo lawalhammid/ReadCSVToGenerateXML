@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\Emilia\\CSVToXMLJSON\\CSVToXMLJSON.csproj": {}
+    "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\CSVConvertToXML\\ReadCSVToGenerateXML\\CSVToGenerateXML\\CSVToXMLJSON\\CSVToXMLJSON.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\Emilia\\CSVToXMLJSONBusinessLogic\\CSVToXMLJSONBusinessLogic.csproj": {
+    "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\CSVConvertToXML\\ReadCSVToGenerateXML\\CSVToGenerateXML\\CSVToXMLJSONBusinessLogic\\CSVToXMLJSONBusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\Emilia\\CSVToXMLJSONBusinessLogic\\CSVToXMLJSONBusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\CSVConvertToXML\\ReadCSVToGenerateXML\\CSVToGenerateXML\\CSVToXMLJSONBusinessLogic\\CSVToXMLJSONBusinessLogic.csproj",
         "projectName": "CSVToXMLJSONBusinessLogic",
-        "projectPath": "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\Emilia\\CSVToXMLJSONBusinessLogic\\CSVToXMLJSONBusinessLogic.csproj",
+        "projectPath": "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\CSVConvertToXML\\ReadCSVToGenerateXML\\CSVToGenerateXML\\CSVToXMLJSONBusinessLogic\\CSVToXMLJSONBusinessLogic.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\Emilia\\CSVToXMLJSONBusinessLogic\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\CSVConvertToXML\\ReadCSVToGenerateXML\\CSVToGenerateXML\\CSVToXMLJSONBusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\Emilia\\CSVToXMLJSON\\CSVToXMLJSON.csproj": {
+    "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\CSVConvertToXML\\ReadCSVToGenerateXML\\CSVToGenerateXML\\CSVToXMLJSON\\CSVToXMLJSON.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\Emilia\\CSVToXMLJSON\\CSVToXMLJSON.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\CSVConvertToXML\\ReadCSVToGenerateXML\\CSVToGenerateXML\\CSVToXMLJSON\\CSVToXMLJSON.csproj",
         "projectName": "CSVToXMLJSON",
-        "projectPath": "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\Emilia\\CSVToXMLJSON\\CSVToXMLJSON.csproj",
+        "projectPath": "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\CSVConvertToXML\\ReadCSVToGenerateXML\\CSVToGenerateXML\\CSVToXMLJSON\\CSVToXMLJSON.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\Emilia\\CSVToXMLJSON\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\CSVConvertToXML\\ReadCSVToGenerateXML\\CSVToGenerateXML\\CSVToXMLJSON\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -96,8 +96,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\Emilia\\CSVToXMLJSONBusinessLogic\\CSVToXMLJSONBusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\Emilia\\CSVToXMLJSONBusinessLogic\\CSVToXMLJSONBusinessLogic.csproj"
+              "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\CSVConvertToXML\\ReadCSVToGenerateXML\\CSVToGenerateXML\\CSVToXMLJSONBusinessLogic\\CSVToXMLJSONBusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\USER\\Documents\\LawalInterviewSchedules\\CSVConvertToXML\\ReadCSVToGenerateXML\\CSVToGenerateXML\\CSVToXMLJSONBusinessLogic\\CSVToXMLJSONBusinessLogic.csproj"
               }
             }
           }

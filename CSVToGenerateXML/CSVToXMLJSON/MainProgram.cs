@@ -28,7 +28,7 @@ namespace CSVToXMLJSON
                 //setup our DI
                 var serviceProvider = DI.RegisterDI();
 
-                Console.WriteLine("To convert file, enter 1 to convert from CSV to XML or enter 2 to convert from XML to CSV");
+                Console.WriteLine("To convert file, enter 1 to convert from CSV to XML or enter 2 to convert from XML to CSV, then press enter button");
 
                 //Validate File Path
                 var validateUserfilePath = serviceProvider.GetService<IValidatedirectory>();
@@ -71,7 +71,7 @@ namespace CSVToXMLJSON
             string retrunfilePath(int userInput)
             {
                 string fileType = userInput == 1 ? "CSV" : "XML";
-                Console.WriteLine($"Paste the directory to read the {fileType} file from: ");
+                Console.WriteLine($"Paste the directory to read the {fileType} file from then press enter button: ");
                 return Console.ReadLine();
             }
 

@@ -5,7 +5,9 @@ namespace CSVToXMLJSON
 {
 
     /// <summary>
-    /// The project is written in such a way to read files from a directory
+    /// The project is written in such a way to read files from a directory.
+    /// Note: First, create two directories from your machine. One that has the CSV file that you want to convert to XML and the second directory will that has the XML file that you want to convert to CSV
+    ///  
     /// The code struture explained below
     ///---- CSVToXMLJSON  project is the main project
     ///---- CSVToXMLJSONAcceptanceTest project is Unit test for QA i.e Acceptance test
@@ -17,7 +19,6 @@ namespace CSVToXMLJSON
     ///Validation to validate each directory supplied by user
     //---- CSVToXMLJSONTest Project is the developer unit test
     //---- CSVToXMLJSONIntegrationTest is the integration unit test
-    // I have two classes for coins. CurrencyCoins(i.e for penny) and CurrencyCoinsHighWeight(for pounds. i.e they are coins too but they have heigher weights or values)
 
     /// </summary>
     internal class Program
