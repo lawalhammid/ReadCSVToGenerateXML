@@ -6,7 +6,7 @@ namespace CSVToXMLJSON
 
     /// <summary>
     /// The project is written in such a way to read files from a directory.
-    /// Note: First, create two directories from your machine. One that has the CSV file that you want to convert to XML and the second directory will that has the XML file that you want to convert to CSV
+    /// Note: First, create two directories from your machine. One that has the CSV file that you want to convert to XML and the second directory that has the XML file that you want to convert to CSV
     ///  
     /// The code struture explained below
     ///---- CSVToXMLJSON  project is the main project
