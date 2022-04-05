@@ -23,5 +23,5 @@ Please email a link to a git repository where your solution can be reviewed from
 
 SOLUTION STRUCTURE
 
-# The project is written in .Net Core 3.1
-# After cloning/downloading the project, locate the Program file inside the CSVToXMLJSON project this is where you will find all the projects structure
+The project is written in .Net Core 3.1
+After cloning/downloading the project, locate the Program file inside the CSVToXMLJSON project this is where you will find all the projects structure
